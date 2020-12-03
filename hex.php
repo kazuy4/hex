@@ -1,7 +1,7 @@
 <?php
 // author : NuLLByte31337
 system('clear');
-function login_banner(){
+function banner(){
 echo " _   _
 ( ) ( )
 | |_| |   __
@@ -9,7 +9,7 @@ echo " _   _
 | | | |(  ___/ >  <
 (_) (_)`\____)(_/\_)" . "\33[32;1m Encode Decode";
 }
-login_banner();
+banner();
 echo "\n\n";
  echo "\33[1;33m[1] encode\n";
  echo "[2] decode\n";
