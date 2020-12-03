@@ -11,7 +11,7 @@ echo " _   _
 }
 login_banner();
 echo "\n\n";
-  echo "\33[1;33m[1] encode\n";
+ echo "\33[1;33m[1] encode\n";
  echo "[2] decode\n";
  echo "Chose Your Input : ";
  $input = trim(fgets(STDIN));
